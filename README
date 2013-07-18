@@ -1,0 +1,3 @@
+This is your run-of-the-mill Scrabble clone.  Currently I am working on implementing the hot-seat version of the game, but have left the design open to a network multiplayer version of the program as well.  
+
+The system, as it stands now, features a client (given the nature of the game, this is little more than a GUI) and a server that controls the game.  The protocol forming the communication between client and server is being worked out currently.
